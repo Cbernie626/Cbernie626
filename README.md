@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chad, a <a href="https://www.linkedin.com/in/cbernie/">Cybersecurity professional with ethical standards to secure the future</a>☺</h1>
+<h1>Hi, I'm Chad, <a href="https://www.linkedin.com/in/cbernie/">an aspiring IT Specialist with projects in networking and systems administration</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
