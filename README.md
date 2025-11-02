@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Microsoft Active Directory</b>
+  - [Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/kleeloy/config-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kleeloy/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kleeloy/post-install-config)
@@ -9,12 +11,12 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kleeloy/config-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kleeloy/Azure-Networks-Protocols)
-- <b>Microsoft Active Directory</b>
-  - [Active Directory: Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/kleeloy/config-ad)
+
     
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 [linkedin]: https://www.linkedin.com/in/cbernie/ 
