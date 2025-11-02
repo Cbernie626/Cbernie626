@@ -4,10 +4,12 @@
 
 - <b>Microsoft Active Directory Home Labs</b>
   - [Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/kleeloy/config-ad)
+    
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kleeloy/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/kleeloy/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kleeloy/ticket-lifecycle)
+    
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/kleeloy/config-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/kleeloy/Azure-Networks-Protocols)
