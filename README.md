@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Active Directory</b>
+- <b>Microsoft Active Directory Home Labs</b>
   - [Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/kleeloy/config-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kleeloy/osticket-prereqs)
