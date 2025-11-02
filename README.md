@@ -18,3 +18,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/cbernie/ 
+[youtube]: https://www.youtube.com/@CentralBridgeIT
