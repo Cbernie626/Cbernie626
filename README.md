@@ -3,8 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Active Directory Home Labs</b>
-  - [Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/kleeloy/config-ad)
-  - [Organizational Units (OUs) and Security Groups](https://github.com/kleeloy/config-ad)
+  - [Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/Cbernie626/AD-Config/blob/main/README.md)
+  - [Organizational Units (OUs) and Security Groups](https://github.com/Cbernie626/AD-Config/blob/main/README.md)
   - [Group Policy Objects (GPOs) and User Settings](https://github.com/kleeloy/config-ad)
   - [File Services and Permissions Management](https://github.com/kleeloy/config-ad)
   - [Implementing Security Policies in AD](https://github.com/kleeloy/config-ad)
