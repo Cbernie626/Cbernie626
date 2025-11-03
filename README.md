@@ -4,6 +4,11 @@
 
 - <b>Microsoft Active Directory Home Labs</b>
   - [Domain Controller & Client Setup (DHCP, DNS, AD)](https://github.com/kleeloy/config-ad)
+  - [Organizational Units (OUs) and Security Groups](https://github.com/kleeloy/config-ad)
+  - [Group Policy Objects (GPOs) and User Settings](https://github.com/kleeloy/config-ad)
+  - [File Services and Permissions Management](https://github.com/kleeloy/config-ad)
+  - [Implementing Security Policies in AD](https://github.com/kleeloy/config-ad)
+  - [Access-Based Enumeration (ABE) Configuration](https://github.com/kleeloy/config-ad)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kleeloy/osticket-prereqs)
